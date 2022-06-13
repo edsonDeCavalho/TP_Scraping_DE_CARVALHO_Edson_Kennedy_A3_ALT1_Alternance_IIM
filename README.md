@@ -1,7 +1,4 @@
-# TD SCRAPING (DE CARVALHO PEDRO EDSON KENNEDEDY)
-###(GROUPE : A3  ALT1 )
-
-Ce projet a étais fait dans le cadre du TP Scraping du 21/03 au 22/03
+# Scraping in Phython
 
 
 ## Avant de lancer le script
